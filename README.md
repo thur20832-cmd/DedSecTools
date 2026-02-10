@@ -36,3 +36,4 @@ Este software foi criado para fins educacionais e de teste de penetração autor
 Operativo: Arthur 🛰️
 Status: Sistema Online
 Afiliação: DedSec
+(Desculpe por estar tudo bagunçado algum dia eu arrumo🫶)
