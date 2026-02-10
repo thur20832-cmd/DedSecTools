@@ -36,4 +36,5 @@ Este software foi criado para fins educacionais e de teste de penetração autor
 Operativo: Arthur 🛰️
 Status: Sistema Online
 Afiliação: DedSec
+Este é um projeto de fã, inspirado no jogo Watch Dogs da Ubisoft. Não possuo direitos sobre o nome DedSec.
 (Desculpe por estar tudo bagunçado algum dia eu arrumo🫶)
